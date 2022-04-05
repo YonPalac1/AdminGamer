@@ -16,6 +16,6 @@ Es un administrador de stock de productos gamer, donde se podran agregar, editar
 - Matias Concha (Front-end Developer)
 - Luis Escalona (Front-end Developer)
 - Joaquin Gorosito (Back-end Developer)
-- Jonatan Palacios (Full-stack Developer)
+- Jonatan Palacios (Full-stack Developer) - <a href="https://www.linkedin.com/in/palacios-yonatan/">Linkedin</a>
 
 <img src="https://github.com/No-Country/C3_G-71/blob/developer/frontend/public/ag.png?raw=true"></img>
